@@ -1,0 +1,7 @@
+{
+    "editor.tabCompletion": "on",
+    "prettier.tabWidth": 4,
+	"vetur.format.options.tabSize": 4,
+	"editor.detectIndentation": false,
+	"editor.insertSpaces": false
+}
